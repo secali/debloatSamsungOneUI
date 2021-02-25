@@ -9,3 +9,4 @@ Apps that will not be disabled:
 - Samsung Browser
 - Some app related with Samsung account will not be disable because Samsung Notes.
 
+If you want to enable all apps again, replace all "disable-user" to "enable" and run the script again.
