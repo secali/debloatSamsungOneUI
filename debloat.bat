@@ -118,7 +118,7 @@ adb shell pm disable-user --user 0 com.samsung.android.app.settings.bixby
 adb shell pm disable-user --user 0 com.samsung.android.app.sharelive
 adb shell pm disable-user --user 0 com.samsung.android.app.simplesharing
 adb shell pm disable-user --user 0 com.samsung.android.app.smartcapture
-adb shell pm disable-user --user 0 com.samsung.android.app.soundpicker
+#adb shell pm disable-user --user 0 com.samsung.android.app.soundpicker
 adb shell pm disable-user --user 0 com.samsung.android.app.spage
 adb shell pm disable-user --user 0 com.samsung.android.app.storyalbumwidget
 adb shell pm disable-user --user 0 com.samsung.android.app.talkback
