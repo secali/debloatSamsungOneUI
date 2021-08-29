@@ -1,12 +1,12 @@
 # debloatSamsungOneUI
-This is a script for ADB, you need to enable USB Debugging.
+Este es un script para ADB, necesita habilitar la depuración USB.
 
-Apps will not removed, only disabled, so you can enable it again.
+Las aplicaciones no se eliminarán, solo se deshabilitarán, por lo que puede habilitarlas nuevamente.
 
-Apps that will not be disabled:
-- Samsung Notes
-- Weather
-- Samsung Browser
-- Some app related with Samsung account will not be disable because Samsung Notes.
+Aplicaciones que no se desactivarán:
+- Notas de Samsung
+- Clima
+- Navegador Samsung
+- Algunas aplicaciones relacionadas con la cuenta de Samsung no se desactivarán debido a Samsung Notes.
 
-If you want to enable all apps again, replace all "disable-user" to "enable" and run the script again.
+Si desea habilitar todas las aplicaciones nuevamente, reemplace todas las "inhabilitaciones de usuario" por "habilitar" y ejecute el script nuevamente.
