@@ -9,4 +9,4 @@ Aplicaciones que no se desactivarán:
 - Navegador Samsung
 - Algunas aplicaciones relacionadas con la cuenta de Samsung no se desactivarán debido a Samsung Notes.
 
-Si desea habilitar todas las aplicaciones nuevamente, reemplace todas las "inhabilitaciones de usuario" por "habilitar" y ejecute el script nuevamente.
+Si desea habilitar todas las aplicaciones nuevamente, reemplace todas las "disable-user" por "enable" y ejecute el script nuevamente.
